@@ -216,4 +216,3 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 https://www.bbc.com/news/business-48386415
 https://www.lloydsbanktrade.com/en/market-potential/brazil/ecommerce
 https://www.latintimes.com/brazil-correios-postal-service-strike-explained-whats-settled-whats-not-why-your-package-599440
-
