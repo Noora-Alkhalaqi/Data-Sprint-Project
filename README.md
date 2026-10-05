@@ -208,3 +208,12 @@ performance by combining delivery, freight, geographic, seller, product,
 and customer-review information. The findings support continued use of
 the current shipping partner while emphasizing continuous performance
 monitoring and predictive analytics to reduce future delivery risk.
+
+## Resourses
+
+https://olist.com/
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+https://www.bbc.com/news/business-48386415
+https://www.lloydsbanktrade.com/en/market-potential/brazil/ecommerce
+https://www.latintimes.com/brazil-correios-postal-service-strike-explained-whats-settled-whats-not-why-your-package-599440
+
